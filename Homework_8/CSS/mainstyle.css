@@ -1,0 +1,37 @@
+span{
+    color:white;
+    background-color:purple	;
+    }
+
+
+    .purplecolor{
+        color:white;
+        background-color:purple;
+        font-family:arial;
+        font-size:16px;
+    }
+
+	.textColor{
+		color:black;
+		font-family:arial;
+		font-size:15px;
+	}
+	
+	#specificFont{
+        font-family:verdana;
+        font-size:25px;
+    }
+
+#specificLink{
+        color:purple;
+        font-family:arial;
+        font-size:16px;
+    }
+body {	
+ background-color: #cccccc;
+}
+
+    color: black;
+    background-color: red;
+}
+
